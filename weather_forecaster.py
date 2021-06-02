@@ -6,7 +6,6 @@ import schedule
 import imageio
 import os
 
-SLACK_TOKEN = 'xoxp-3504760117-294059711191-2034198475863-6bc50766bf5d157ca4c8bc6a0d9bdb36'
 TODAY = date.today()
 TOMORROW = date.today() + datetime.timedelta(days=1)
 DAY_AFTER_TOMORROW = date.today() + datetime.timedelta(days=2)
