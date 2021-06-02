@@ -16,5 +16,3 @@ This simple tool creates a screenshot of the weather forecast for Spain at 2pm a
 
 
 *Examples of screenshots can be found in the folder*
-
-![Example Gif](https://raw.github.com/alvarogmf/weather_forecaster/edit/main/screenshots/weather_forecast_gif.gif)
